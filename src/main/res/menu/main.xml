@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/GOAL_SETTING"
+        android:orderInCategory="100"
+        android:title="GOAL_SETTING" />
+    <item
+        android:id="@+id/Test_mode"
+        android:orderInCategory="100"
+        android:title="TEST_MODE" />
+</menu>
